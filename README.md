@@ -34,18 +34,6 @@ If incorrect data is entered (e.g., zero or negative numbers), an alert will be 
 
 ---
 
-## **Validation**
-
-### **Client-Side Validation**
-- Input validation ensures the user enters only valid positive numbers.
-- If invalid input is detected, an `alert` is displayed, and the form submission is prevented.
-
-### **Server-Side Validation**
-- Ensures only valid inputs are processed.
-- Prevents invalid data from corrupting calculations or backend logic.
-
----
-
 ## **Folder Structure Explained**
 
 ### **index.html**
